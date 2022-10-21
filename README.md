@@ -2,7 +2,7 @@
 
 ![app](https://user-images.githubusercontent.com/67400060/193985192-b53ca300-5c09-4c64-b051-34ee20654b5e.jpg)
 
-<h4 p align='center'>Members: Vrinda, Christabel, Jessica, Jeremy, Sean</p>
+<h4 p align='center'>Members: Vrinda, Christabelle, Jessica, Jeremy, Sean</p>
 Fully functioning mobile application created by Team CSS based off United Nations Sustainable Development Goals 12 and 13
 Purpose of application is to get users to cultivate a sustainable lifestyle through doing daily tasks relating to responsible 
 consumption and saving the environment as an indidivual
